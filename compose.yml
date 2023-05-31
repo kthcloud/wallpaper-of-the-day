@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  wallpaper-of-the-day:
+    build: "."
+    image: "pierrelf/wallpaper-of-the-day"
+    ports:
+      - "8080:8080"
