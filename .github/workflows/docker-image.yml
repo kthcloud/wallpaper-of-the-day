@@ -15,7 +15,7 @@ jobs:
       uses: docker/login-action@v2
       with:
         registry: registry.cloud.cbh.kth.se
-        username: wallpaper-of-the-day
+        username: robot$deploy-3de025ba-ed43-43e0-ab50-03c04b7ef968+wallpaper-of-the-day 
         password:  ${{ secrets.REGISTRY_PASSWORD }}
     - name: Build and push
       uses: docker/build-push-action@v3
