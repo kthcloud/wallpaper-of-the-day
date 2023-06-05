@@ -31,4 +31,4 @@ You can use the public instance of this server at `https://wallpaper-of-the-day.
 
 ## Credits
 
-This server was created by GitHub Copilot Chat.
+This server was mostly created by GitHub Copilot Chat.
