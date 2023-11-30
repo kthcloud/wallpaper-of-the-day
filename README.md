@@ -6,7 +6,7 @@ This is a Node.js server that fetches the Bing Wallpaper of the Day and serves i
 
 To start the server, run:
 
-`npm start`
+`npm start` 
 
 The server will listen on port 8080 by default, or the value of the `APP_PORT` environment variable if set. You can access the server by visiting `http://localhost:8080` in your web browser.
 
